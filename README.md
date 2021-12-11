@@ -42,3 +42,7 @@ To Reference
 ----
 - Retrofit (Network call)
 - Expresso Test (Android UI Test)
+
+Reference
+----
+- https://developer.android.com/codelabs/basic-android-kotlin-training-project-amphibians?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-kotlin-unit-4-pathway-2%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-training-project-amphibians#3
