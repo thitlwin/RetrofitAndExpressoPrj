@@ -37,3 +37,8 @@ Tips
 
 - Use the provided tests to ensure your app is running as expected
 - DO NOT ALTER THE PROVIDED TESTS
+
+To Reference
+----
+- Retrofit (Network call)
+- Expresso Test (Android UI Test)
